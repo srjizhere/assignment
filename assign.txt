@@ -1,0 +1,5 @@
+your task is to create signup and login with user dashboard application
+
+for sign up you have get name, phone ,email phone number has to be verify by verify button same as email
+
+and for login userid is phone number and password is name + last 5digits of phone number before login an verfication link has to be sent user email to validate email
